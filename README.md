@@ -15,4 +15,5 @@ The simulated scenarios are:
 ## Scientific publication:
  "Tension at intercellular junctions is necessary for accurate orientation of cell division in the epithelium plane"
 Ana Lisica, Jonathan Fouchard, Manasi Kelkar, Tom P. J. Wyatt, Julia Duque, Anne-Betty Ndiaye, Alessandra Bonfanti, Buzz Baum, Alexandre J. Kabla, Guillaume T. Charras
+
 https://www.biorxiv.org/content/10.1101/2022.01.30.478396v1.full
