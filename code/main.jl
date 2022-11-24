@@ -178,14 +178,16 @@ end
 
 
 
-# Main
+# ---------------------------------- Main ------------------------------------------------------------------
 
-for i = 1:1:3
+n = 44    # Number of steps for the simulation
+
+for i = 1:1:n
     close("all")
- n = 44
+
     # Case 01: No axial displacement, only prestress
      param1 =  1                    # EA = where E is the Young's modulus and A is the corss section area
-     param2 = 0.0                   # Displacement at the two edges
+     param2 = 0.0                   # Displacement at the two edges (Boundary conditions)
      param3 = (i-1) * 0.35/(n-1)    # Prestress
 
     # Case 02: constant prestress, compression
